@@ -1,0 +1,4 @@
+*.vscode/
+*make_build.sh
+*bin/
+*build/
