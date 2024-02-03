@@ -1,8 +1,6 @@
 #ifndef SUPPORT_FUNCS_HPP
 #define SUPPORT_FUNCS_HPP
 
-#include <string>
-
 namespace supply
 {
 // check that string consists of digits

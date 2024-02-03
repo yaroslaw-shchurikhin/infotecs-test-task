@@ -3,8 +3,6 @@
 #include <iostream>
 #include <thread>
 #include <algorithm>
-#include <atomic>
-#include <chrono>
 #include <stdexcept>
 
 #include <unistd.h>

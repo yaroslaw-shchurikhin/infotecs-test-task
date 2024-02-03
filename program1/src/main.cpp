@@ -1,9 +1,6 @@
 #include <thread>
-#include <condition_variable>
 #include <mutex>
-#include <atomic>
 #include <exception>
-#include <cstdint>
 #include <iostream>
 
 #include "detail/handler.hpp"

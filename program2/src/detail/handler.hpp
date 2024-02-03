@@ -1,8 +1,6 @@
 #ifndef PROGRAM2_HANDLER_HPP
 #define PROGRAM2_HANDLER_HPP
 
-#include <cstdint>
-
 namespace detail
 {
 class Handler

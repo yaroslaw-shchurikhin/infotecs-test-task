@@ -1,8 +1,6 @@
 #include "support_funcs.hpp"
 
-#include <algorithm>
 #include <cctype>
-#include <cstdint>
 
 namespace supply
 {

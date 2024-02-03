@@ -2,9 +2,6 @@
 #define USER_INTERFACE_HPP
 
 #include <iosfwd>
-#include <condition_variable>
-#include <mutex>
-#include <atomic>
 
 #include "../detail/buffer.hpp"
 
