@@ -1,1 +1,0 @@
-# infotecs-test-task
